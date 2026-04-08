@@ -1,0 +1,1 @@
+fullstack developer (middle level), work with shopify & wix platform (mostly shopify), work with Remix.js, Larvel, React, NodeJS, PHP, MySQL, Redis, MongoDB, Docker, Golang

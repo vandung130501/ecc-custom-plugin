@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm:*)",
+      "Bash(ls:*)",
+      "Bash(mkdir:*)",
+      "Bash(mv:*)",
+      "Bash(claude plugin:*)",
+      "Bash(gh auth:*)",
+      "Bash(git:*)",
+      "Bash(cd:*)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "github",
+    "context7",
+    "exa",
+    "memory",
+    "playwright",
+    "sequential-thinking"
+  ]
+}
